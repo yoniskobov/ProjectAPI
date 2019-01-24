@@ -58,8 +58,8 @@ namespace ProjectZaem
             var results = Zaem.Calculate(decimal.Parse(CreditAmountTxt.Text), decimal.Parse(CreditDeadlineTxt.Text), decimal.Parse(YearInterestTxt.Text));
             //Zaem zaem = new Zaem(CreditAmountTxt.Text, CreditDeadlineTxt.Text, YearInterestTxt.Text);
 
-            TotalResult.Text = results.TotalResult;
-            MonthlyResult.Text = results.MonthlyResult;
+            TotalResult.Text = results.TotalResult.ToString();
+            MonthlyResult.Text = results.MonthlyResult.ToString();
         }
 
         private void YearInterestTxt_TextChanged(object sender, EventArgs e)

@@ -17,3 +17,15 @@ C:\Users\Yoni\source\repos\Project_API\ProjectZaem\obj\Debug\ProjectZaem.csproj.
 C:\Users\Yoni\source\repos\Project_API\ProjectZaem\obj\Debug\ProjectZaem.csproj.CoreCompileInputs.cache
 C:\Users\Yoni\source\repos\Project_API\ProjectZaem\obj\Debug\ProjectZaem.exe
 C:\Users\Yoni\source\repos\Project_API\ProjectZaem\obj\Debug\ProjectZaem.pdb
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\obj\Debug\ProjectZaem.csprojResolveAssemblyReference.cache
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\obj\Debug\ProjectZaem.Form1.resources
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\obj\Debug\ProjectZaem.Properties.Resources.resources
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\obj\Debug\ProjectZaem.csproj.GenerateResource.Cache
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\obj\Debug\ProjectZaem.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\obj\Debug\ProjectZaem.exe
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\obj\Debug\ProjectZaem.pdb
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\bin\Debug\ProjectZaem.exe.config
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\bin\Debug\ProjectZaem.exe
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\bin\Debug\ProjectZaem.pdb
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\bin\Debug\Zaemdll.dll
+C:\Users\Yoni\source\repos\ProjectAPI\ProjectZaem\bin\Debug\Zaemdll.pdb

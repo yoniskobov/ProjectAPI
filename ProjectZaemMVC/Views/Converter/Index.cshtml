@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h2>Index</h2>
+        <form action="Converter/Calculate" method="post">
+            <div class="form-group">
+                <label for="opp1">Размер на кредита:</label>
+                <input type="text" name="value1" class="form-control" id="opp1" />
+            </div>
+            <div class="form-group">
+                <label for="opp2">Срок на кредита в месеци:</label>
+                <input type="text" name="value2" class="form-control" id="opp2" />
+            </div>
+            <div class="form-group">
+                <label for="opp3">Годишен лихвен процент:</label>
+                <input type="text" name="value3" class="form-control" id="opp3" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Пресметни" class="btn btn-primary" />
+            </div>
+        </form>
+
+    </div>
+</body>
+</html>
