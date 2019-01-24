@@ -10,7 +10,6 @@ namespace ProjectZaemMVC.Controllers
     {
         public ActionResult Index()
         {
-            Zaemdll.Zaem.Calculate(123m, 1m, 32m);
             return View();
         }
 
