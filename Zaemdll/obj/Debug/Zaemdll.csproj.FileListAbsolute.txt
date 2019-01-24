@@ -1,0 +1,6 @@
+C:\Users\Yoni\source\repos\ProjectZaem\Zaemdll\obj\Debug\Zaemdll.csprojResolveAssemblyReference.cache
+C:\Users\Yoni\source\repos\ProjectZaem\Zaemdll\obj\Debug\Zaemdll.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\source\repos\ProjectZaem\Zaemdll\bin\Debug\Zaemdll.dll
+C:\Users\Yoni\source\repos\ProjectZaem\Zaemdll\bin\Debug\Zaemdll.pdb
+C:\Users\Yoni\source\repos\ProjectZaem\Zaemdll\obj\Debug\Zaemdll.dll
+C:\Users\Yoni\source\repos\ProjectZaem\Zaemdll\obj\Debug\Zaemdll.pdb

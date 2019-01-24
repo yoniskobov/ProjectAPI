@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Calculate";
+}
+
+<h2>Calculate</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th> </th>
+            <th scope="col">Месечна вноска</th>
+            <th scope="col">Общо изплатено по кредита</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row"></th>
+            <td>@ViewBag.values.MonthlyResult</td>
+            <td>@ViewBag.values.TotalResult</td>
+        </tr>
+    </tbody>
+</table>
